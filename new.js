@@ -1,4 +1,10 @@
-console.log("Here is some new javascript code");
+console.log("Here is some duplicated javascript code");
+console.log("Here is some duplicated javascript code");
+console.log("Here is some duplicated javascript code");
+console.log("Here is some duplicated javascript code");
+console.log("Here is some duplicated javascript code");
+console.log("Here is some duplicated javascript code");
+console.log("Here is some duplicated javascript code");
 
 //SonarCloud should analyze this...
-//console.log("Sonar doesnt like this commented code?");
+
