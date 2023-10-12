@@ -5,6 +5,8 @@ function addition(first, second) {
   return first + second;
 }
 
+console.log("rebase and merge");
+
 addition(a,b);
 //SonarCloud should analyze this...
 
