@@ -1,10 +1,10 @@
-console.log("Here is some duplicated javascript code");
-console.log("Here is some duplicated javascript code");
-console.log("Here is some duplicated javascript code");
-console.log("Here is some duplicated javascript code");
-console.log("Here is some duplicated javascript code");
-console.log("Here is some duplicated javascript code");
-console.log("Here is some duplicated javascript code");
+let a = 10;
+let b = 20;
 
+function addition(first, second) {
+  return first + second;
+}
+
+addition(a,b);
 //SonarCloud should analyze this...
 
